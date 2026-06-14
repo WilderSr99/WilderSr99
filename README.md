@@ -8,6 +8,7 @@ Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
   <a href="www.linkedin.com/in/wilder-s-ríos">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-blue?style=for-the-badge&logo=linkedin">
   </a>
+  
 
   <a href="mailto:wt.sebastianr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail">
