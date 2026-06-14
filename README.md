@@ -35,8 +35,8 @@
 - 🛰️ Experiencia en teledetección, SIG, GeoAI y procesamiento de imágenes satelitales.
 - 🤖 Desarrollo modelos de Deep Learning para segmentación semántica.
 - 🗺️ Trabajo con Sentinel-2, PeruSAT-1, Google Earth Engine y QGIS.
-- 🏛️ Interesado en innovación pública, transformación digital y desarrollo sostenible.
-- 📚 Actualmente estudiante de Ingeniería de Sistemas e Informática.
+- 🏛️ Interesado en innovación, transformación digital y desarrollo sostenible.
+- 📚 Estudiante de Ingeniería de Sistemas e Informática.
 
 ---
 
