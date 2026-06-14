@@ -19,6 +19,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Economía-007ACC?style=flat-square&logo=chart&logoColor=white" alt="Economía" />
+  <img src="https://img.shields.io/badge/Data%20Science-F37626?style=flat-square&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/GeoAI-2E8B57?style=flat-square&logo=googlemaps&logoColor=white" alt="GeoAI" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Análisis%20Geoespacial-800080?style=flat-square&logo=openstreetmap&logoColor=white" alt="Análisis Geoespacial" />
+</p>
+
+
 ---
 
 ## 👨‍💻 Sobre mí
