@@ -17,19 +17,6 @@ Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
 
 ---
 
-## 🚀 Proyecto destacado
-
-### 🌎 IA para el monitoreo de minería ilegal en el Perú
-
-Sistema de inteligencia artificial para detectar y monitorear la expansión de la minería ilegal mediante imágenes Sentinel-2, análisis multitemporal y datos georreferenciados.
-<p align="center">
-  <a href="https://github.com/WilderSr99/ia-mineria-peru">
-    <img src="https://img.shields.io/badge/Ver_proyecto-ia--mineria--peru-blue?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
 ## 🛠️ Tecnologías
 
 ### Lenguajes y análisis
