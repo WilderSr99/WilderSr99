@@ -10,7 +10,7 @@ Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
   </a>
 
   <a href="mailto:wt.sebastianr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
