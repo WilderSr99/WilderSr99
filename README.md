@@ -85,7 +85,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=WilderSr99&show_icons=true&hide_border=true&locale=es&theme=transparent"
-    alt="Estadísticas generales de GitHub de Wilder"
+    alt="Estadísticas generales"
   />
 </p>
 <p align="center">
