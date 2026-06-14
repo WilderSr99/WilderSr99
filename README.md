@@ -33,7 +33,7 @@ Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
 ### Lenguajes y análisis
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,git,github,vscode,js" />
 </p>
 
 ### Machine Learning y Deep Learning
