@@ -27,18 +27,6 @@ Sistema de inteligencia artificial para detectar y monitorear la expansión de l
     <img src="https://img.shields.io/badge/Ver_proyecto-ia--mineria--peru-blue?style=for-the-badge&logo=github">
   </a>
 </p>
----
-
-## 🧠 Áreas de especialización
-
-- Inteligencia Artificial Geoespacial
-- Deep Learning y visión por computador
-- Segmentación semántica
-- Teledetección y procesamiento satelital
-- Análisis territorial
-- Ciencia de datos aplicada al sector público
-- Monitoreo ambiental
-- Transformación digital
 
 ---
 
