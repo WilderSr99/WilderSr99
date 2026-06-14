@@ -10,6 +10,14 @@
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Economía-007ACC?style=flat-square&logo=chart&logoColor=white" alt="Economía" />
+  <img src="https://img.shields.io/badge/Data%20Science-F37626?style=flat-square&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/GeoAI-2E8B57?style=flat-square&logo=googlemaps&logoColor=white" alt="GeoAI" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Análisis%20Geoespacial-800080?style=flat-square&logo=openstreetmap&logoColor=white" alt="Análisis Geoespacial" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/wilder-s-ríos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -18,15 +26,6 @@
     <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Economía-007ACC?style=flat-square&logo=chart&logoColor=white" alt="Economía" />
-  <img src="https://img.shields.io/badge/Data%20Science-F37626?style=flat-square&logo=python&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/GeoAI-2E8B57?style=flat-square&logo=googlemaps&logoColor=white" alt="GeoAI" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Análisis%20Geoespacial-800080?style=flat-square&logo=openstreetmap&logoColor=white" alt="Análisis Geoespacial" />
-</p>
-
 
 ---
 
@@ -85,11 +84,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=WilderSr99&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=WilderSr99&show_icons=true&hide_border=true&locale=es&theme=transparent"
     height="165"
+    alt="Estadísticas generales de GitHub de Wilder"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilderSr99&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilderSr99&layout=compact&hide_border=true&locale=es&theme=transparent"
     height="165"
+    alt="Lenguajes de programación más utilizados"
   />
 </p>
