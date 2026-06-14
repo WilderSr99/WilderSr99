@@ -80,11 +80,3 @@ Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
     height="165"
   />
 </p>
-
----
-
-<p align="center">
-  <strong>
-    Transformar datos en evidencia, evidencia en decisiones y decisiones en impacto territorial.
-  </strong>
-</p>
