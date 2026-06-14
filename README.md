@@ -3,13 +3,6 @@
 <h3 align="center">
 Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
 </h3>
-
-<p align="center">
-Desarrollo soluciones basadas en inteligencia artificial, datos geoespaciales
-y teledetección para generar evidencia, monitorear el territorio
-y fortalecer la toma de decisiones públicas.
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
