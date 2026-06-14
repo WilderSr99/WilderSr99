@@ -100,4 +100,3 @@
     alt="Lenguajes de programación más utilizados"
   />
 </p>
-
