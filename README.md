@@ -1,31 +1,32 @@
 <h1 align="center">Hola, soy Wilder Teddy Sebastian Rios 👋</h1>
 
-```console
-WilderSr99@github:~$ whoami
-Economist | Data Scientist | GeoAI Researcher
-
-WilderSr99@github:~$ skills
-Python, SQL, QGIS, Google Earth Engine, PyTorch, GeoPandas
-
-WilderSr99@github:~$ focus
-Deep Learning, Computer Vision, Remote Sensing, Geospatial Analysis
-
-WilderSr99@github:~$ current_project
-AI for multitemporal illegal mining monitoring in Peru
-
-WilderSr99@github:~$ mission
-Transform geospatial data into public value and actionable insights
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/wilder-s-ríos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:wt.sebastianr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <b>Economista • Data Scientist • GeoAI • Deep Learning • Análisis geoespacial</b>
 </p>
+
+---
+
+```bash
+wilder@geoai:~$ fastfetch
+
+      .-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-.
+      |  Wilder Teddy Sebastian Rios            |
+      |-----------------------------------------|
+      |  Role      : Economist / Data Scientist |
+      |  Focus     : GeoAI & Deep Learning      |
+      |  Domain    : Remote Sensing & GIS       |
+      |  Research  : Illegal mining monitoring  |
+      |  Tools     : Python, SQL, QGIS, GEE     |
+      |  Models    : U-Net, SegFormer, DL       |
+      |  Location  : Peru                       |
+      |  Interest  : Public policy & sustainability |
+      '-----------------------------------------'
+
+wilder@geoai:~$ echo "Transforming geospatial data into public value"
+Transforming geospatial data into public value
+
 ```
+
 ---
 
 ## 👨‍💻 Sobre mí
