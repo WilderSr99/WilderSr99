@@ -46,39 +46,27 @@ Sistema de inteligencia artificial para detectar y monitorear la expansión de l
 
 ### Geospatial & Remote Sensing
 
-- QGIS
-- GeoPandas
-- Rasterio
-- Shapely
-- Google Earth Engine
-- Sentinel-2
-- PeruSAT-1
-- PostGIS
+<p>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/Rasterio-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Rasterio" />
+  <img src="https://img.shields.io/badge/Shapely-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Shapely" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine" />
+  <img src="https://img.shields.io/badge/Sentinel--2-8C8C8C?style=for-the-badge&logoColor=white" alt="Sentinel-2" />
+  <img src="https://img.shields.io/badge/PeruSAT--1-D32F2F?style=for-the-badge&logoColor=white" alt="PeruSAT-1" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
+</p>
 
 ### Data Science
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-- SQL
-
----
-
-## 📌 Otros proyectos
-
-### 🏘️ Delimitación automática de centros poblados rurales
-
-Detección de viviendas y áreas construidas mediante imágenes PeruSAT-1 y modelos de segmentación como U-Net, DeepLabV3+ y SegFormer.
-
-### 🛰️ Segmentación de edificaciones en paisajes peruanos
-
-Investigación aplicada para la extracción automática de huellas de edificios en imágenes satelitales de alta resolución.
-
-### 📊 Machine Learning aplicado
-
-Proyectos de clasificación, regresión, procesamiento de lenguaje natural, análisis estadístico y visualización de datos.
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
 ---
 
