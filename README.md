@@ -3,6 +3,7 @@
 <h3 align="center">
 Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
 </h3>
+
 ---
 
 ## 👨‍💻 Sobre mí
