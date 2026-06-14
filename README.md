@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Wilder Teddy Sebastian Rios 👋</h1>
+<h1 align="center">Hola, soy Wilder Sebastian Rios 👋</h1>
 
 <h3 align="center">
 Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
@@ -28,20 +28,11 @@ y fortalecer la toma de decisiones públicas.
 ### 🌎 IA para el monitoreo de minería ilegal en el Perú
 
 Sistema de inteligencia artificial para detectar y monitorear la expansión de la minería ilegal mediante imágenes Sentinel-2, análisis multitemporal y datos georreferenciados.
-
-📍 Caso piloto: Madre de Dios  
-📅 Periodo analizado: 2019–2025  
-🧠 Modelos: U-Net y SegFormer-B0  
-📊 IoU SegFormer: 0.8603  
-📈 Crecimiento detectado: 52.79%  
-🌐 Potencial de escalabilidad nacional  
-
 <p align="center">
   <a href="https://github.com/WilderSr99/ia-mineria-peru">
     <img src="https://img.shields.io/badge/Ver_proyecto-ia--mineria--peru-blue?style=for-the-badge&logo=github">
   </a>
 </p>
-
 ---
 
 ## 🧠 Áreas de especialización
@@ -109,17 +100,6 @@ Proyectos de clasificación, regresión, procesamiento de lenguaje natural, aná
 
 ---
 
-## 🔭 Actualmente trabajando en
-
-- Automatización del monitoreo de minería ilegal.
-- Segmentación de imágenes satelitales con SegFormer.
-- Análisis multitemporal de cambios territoriales.
-- Desarrollo de alertas tempranas geoespaciales.
-- Investigación aplicada en GeoAI.
-- Publicación de investigaciones en inteligencia artificial y teledetección.
-
----
-
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
@@ -132,20 +112,6 @@ Proyectos de clasificación, regresión, procesamiento de lenguaje natural, aná
     height="165"
   />
 </p>
-
----
-
-## 🤝 Intereses de colaboración
-
-Estoy interesado en colaborar en proyectos relacionados con:
-
-- inteligencia artificial aplicada al territorio;
-- monitoreo ambiental;
-- análisis de imágenes satelitales;
-- datos abiertos y gobierno digital;
-- innovación pública;
-- conservación ambiental;
-- investigación aplicada.
 
 ---
 
