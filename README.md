@@ -1,8 +1,20 @@
-<h1 align="center">Hola, soy Wilder Sebastian Rios 👋</h1>
+<h1 align="center">Hola, soy Wilder Teddy Sebastian Rios 👋</h1>
 
-<h3 align="center">
-Economista | Data Scientist | GeoAI | Deep Learning | Análisis geoespacial
-</h3>
+```console
+WilderSr99@github:~$ whoami
+Economist | Data Scientist | GeoAI Researcher
+
+WilderSr99@github:~$ skills
+Python, SQL, QGIS, Google Earth Engine, PyTorch, GeoPandas
+
+WilderSr99@github:~$ focus
+Deep Learning, Computer Vision, Remote Sensing, Geospatial Analysis
+
+WilderSr99@github:~$ current_project
+AI for multitemporal illegal mining monitoring in Peru
+
+WilderSr99@github:~$ mission
+Transform geospatial data into public value and actionable insights
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilder-s-ríos" target="_blank">
