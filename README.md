@@ -1,31 +1,17 @@
-<h1 align="center">Hola, soy Wilder Teddy Sebastian Rios 👋</h1>
+<div align="center">
+  <pre>
+██╗    ██╗██╗██╗     ██████╗ ███████╗██████╗ ███████╗██████╗ ██████╗  █████╗  █████╗ 
+██║    ██║██║██║     ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+██║ █╗ ██║██║██║     ██║  ██║█████╗  ██████╔╝███████╗██████╔╝██████╔╝╚██████║╚██████║
+██║███╗██║██║██║     ██║  ██║██╔══╝  ██╔══██╗╚════██║██╔══██╗██╔══██╗ ╚═══██║ ╚═══██║
+╚███╔███╔╝██║███████╗██████╔╝███████╗██║  ██║███████║██║  ██║██║  ██║ █████╔╝ █████╔╝
+ ╚══╝╚══╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚════╝ 
+  </pre>
+</div>
 
 <p align="center">
   <b>Economista • Data Scientist • GeoAI • Deep Learning • Análisis geoespacial</b>
 </p>
-
----
-
-```bash
-wilder@geoai:~$ fastfetch
-
-      .-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-.
-      |  Wilder Teddy Sebastian Rios            |
-      |-----------------------------------------|
-      |  Role      : Economist / Data Scientist |
-      |  Focus     : GeoAI & Deep Learning      |
-      |  Domain    : Remote Sensing & GIS       |
-      |  Research  : Illegal mining monitoring  |
-      |  Tools     : Python, SQL, QGIS, GEE     |
-      |  Models    : U-Net, SegFormer, DL       |
-      |  Location  : Peru                       |
-      |  Interest  : Public policy & sustainability |
-      '-----------------------------------------'
-
-wilder@geoai:~$ echo "Transforming geospatial data into public value"
-Transforming geospatial data into public value
-
-```
 
 ---
 
