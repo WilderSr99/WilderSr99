@@ -85,12 +85,19 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=WilderSr99&show_icons=true&hide_border=true&locale=es&theme=transparent"
-    height="165"
     alt="Estadísticas generales de GitHub de Wilder"
   />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=WilderSr99&theme=transparent&locale=es&hide_border=true"
+    alt="Racha de contribuciones de GitHub de Wilder"
+  />
+</p>
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilderSr99&layout=compact&hide_border=true&locale=es&theme=transparent"
-    height="165"
     alt="Lenguajes de programación más utilizados"
   />
 </p>
+
