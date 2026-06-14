@@ -25,7 +25,7 @@ Transform geospatial data into public value and actionable insights
     <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
+```
 ---
 
 ## 👨‍💻 Sobre mí
