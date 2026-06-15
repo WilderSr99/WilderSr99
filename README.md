@@ -21,6 +21,10 @@
   <a href="https://www.linkedin.com/in/wilder-s-ríos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:wt.sebastianr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
