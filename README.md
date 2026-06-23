@@ -44,7 +44,7 @@
 ### Lenguajes y análisis
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,postgresql,git,github,vscode,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,git,github,vscode,js,html" />
 </p>
 
 ### Machine Learning y Deep Learning
